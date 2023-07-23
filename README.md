@@ -1,2 +1,2 @@
-# Learning_Management_System
-A project Student learning management are divided into three part student, course and admin.
+CRUD assignment based on Backend how to CREATE, READ, UPDATE, and DELETE a file.
+Initilaizing packages, install dependencies.
